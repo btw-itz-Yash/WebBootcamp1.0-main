@@ -1,0 +1,15 @@
+.outer{
+    background-color:rgb(40, 130, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+h1{
+    color: rgb(75, 17, 8);
+}
+button{
+    color: black;
+    background-color: blue;
+}
